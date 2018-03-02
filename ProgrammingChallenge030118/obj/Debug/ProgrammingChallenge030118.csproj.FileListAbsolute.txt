@@ -1,0 +1,7 @@
+c:\users\spenc\source\repos\ProgrammingChallenge030118\ProgrammingChallenge030118\bin\Debug\ProgrammingChallenge030118.exe.config
+c:\users\spenc\source\repos\ProgrammingChallenge030118\ProgrammingChallenge030118\bin\Debug\ProgrammingChallenge030118.exe
+c:\users\spenc\source\repos\ProgrammingChallenge030118\ProgrammingChallenge030118\bin\Debug\ProgrammingChallenge030118.pdb
+c:\users\spenc\source\repos\ProgrammingChallenge030118\ProgrammingChallenge030118\obj\Debug\ProgrammingChallenge030118.csprojResolveAssemblyReference.cache
+c:\users\spenc\source\repos\ProgrammingChallenge030118\ProgrammingChallenge030118\obj\Debug\ProgrammingChallenge030118.csproj.CoreCompileInputs.cache
+c:\users\spenc\source\repos\ProgrammingChallenge030118\ProgrammingChallenge030118\obj\Debug\ProgrammingChallenge030118.exe
+c:\users\spenc\source\repos\ProgrammingChallenge030118\ProgrammingChallenge030118\obj\Debug\ProgrammingChallenge030118.pdb
